@@ -1,0 +1,54 @@
+*{
+margin: 0;padding: 0;font-family: 'Bree serif';
+}
+a{
+text-decoration: none;
+}
+.div-conteudo-top img{
+top:5%; left: 4%; position: absolute;
+}
+button.botao-admin{
+width: 20%; height: 100%;font-size: 18px;font-weight: bold;cursor: pointer;background: #ff1616;color: #ffd;
+display: block;float: right;border: none;border-radius: 4px;margin-top: 8.5%;margin-right: 7%;padding: 10px;position: 
+relative; font-family: 'Bree serif';
+}
+div.page-forms{
+top:25%;width: 100%;position: absolute;border-top: #000;
+}
+div.page-banner img{
+width: 700px;height: 480px; background: rgb(37, 36, 33); position: relative; border:1px solid #000; 
+}
+.page-banner img{
+width: 50% !important;height: 100%;left: 5px;    
+}
+.div-forms{
+width: 49%;height: 480px;position: relative;display: block;float: right;right: 6px;top:0; background: #fff;
+border-left: 3px solid #000;border-bottom: 3px solid #000;border-right: 4px solid #000;   
+}
+
+div.div-formulario-page{
+position: relative;top: 25%;   
+}
+
+form.formulario-page{
+height: 100%; position: relative; top:30%;   
+}
+
+.div-formulario-page h2{
+text-transform: uppercase; 
+}
+.span-img{
+width: 100px;
+}
+input.inputs-acessos{
+width: 70%;height: 40px;display: block;position: relative;box-shadow: inset #ddd;text-indent: 15px;font-size: 18px;
+border-radius: 1;
+}
+button.botao-logar{
+font-size: 18px;border: none;font-weight: bold;color: #fff;background: #3d3945;width: 70%;height: 40px;
+position: relative;display: block;font-weight: bold;cursor: pointer;
+}
+button.botao-criar-conta{
+font-size: 18px;border: none;font-weight: bold;color: #fff;background: #ff1616;width: 70%;height: 40px;top: 6px;
+position: relative;display: block;font-weight: bold;cursor: pointer;
+}
